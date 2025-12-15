@@ -22,7 +22,7 @@ train the proposed framework.
 ### Tracking
 - Clone the code and unzip it on your computer.
 - Prerequisites: Ubuntu 22.04, Pytorch 2.2.2, GTX A100, CUDA 12.1.
-- Download our trained models from [here](https://pan.baidu.com/s/1-r5-W6TgNlWcGFwFEYzB3A?pwd=1111) and put them into the `src/tracking/networks` folder.
+- Download our trained models from [here](https://pan.baidu.com/s/1-r5-W6TgNlWcGFwFEYzB3A?pwd=1111).
 - Run `pysot_toolkit/test.py` to test a TIR sequence using the default model.
 
 ## Citation
